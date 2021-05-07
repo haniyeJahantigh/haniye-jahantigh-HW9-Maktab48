@@ -1,0 +1,21 @@
+body {
+  margin: 30px auto;
+  padding: 0;
+  box-sizing: border-box;
+}
+.main {
+  width: 300px;
+  margin: 30px auto;
+}
+.incremental-input {
+  max-width: 13rem;
+}
+
+.incremental-input input[type="text"] {
+  border-left: none;
+}
+
+.incremental-input .input-group-addon {
+  background: #fff;
+  cursor: pointer;
+}
