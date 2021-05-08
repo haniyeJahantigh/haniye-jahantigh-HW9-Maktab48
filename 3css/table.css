@@ -14,3 +14,6 @@ table tr:nth-child(even) {
 .pagination li:hover {
   cursor: pointer;
 }
+table tbody tr {
+  display: none;
+}
